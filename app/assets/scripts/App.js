@@ -1,5 +1,5 @@
 import "../styles/styles.css";
 
-// if (module.compress) {
-//   module.compress.accept();
-// }
+if (module.open) {
+  module.open.accept();
+}

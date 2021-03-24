@@ -17,6 +17,7 @@ module.exports = {
     contentBase: path.join(__dirname, "app"),
     open: true,
     port: 9000,
+    host: "0.0.0.0",
   },
   mode: "development",
   // watch: true,
